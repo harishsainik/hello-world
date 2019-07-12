@@ -1,3 +1,4 @@
 # hello-world
 This is a hello world project.
-created by Harish Saini
+This is conflicted line
+created by Harish Kumar Saini
